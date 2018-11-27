@@ -7,8 +7,8 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "510507583174606869"; // ايدي السررفر
-var channel = "509357857666236434";//ايدي الروم
+var server = "517046102483271700"; // ايدي السررفر
+var channel = "517046910130061336";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft Minecraft  **')
     },305);
